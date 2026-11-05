@@ -1,9 +1,9 @@
-# 🍕 Pizzería Mamma Mía! - Hito 7 (JWT)
+# 🍕 Pizzería Mamma Mía! - Hito 8 (JWT)
 
 Proyecto Estatico, creado con React + Vite, + Router2, React Context API, para una pizzeria, Hito 7 actualizado
 
 ## Acceso
-    
+    https://github.com/buffonico/Hito-8-Pizzeria-Mamma-Mia
     
 
 ## Descripción
